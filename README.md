@@ -5,3 +5,6 @@ This is an OWASP Risk Calculator which follows the OWASP Risk Rating Methodology
 - HTML
 - CSS
 - JavaScript
+
+### Hosted Link:
+[OWASP Risk Calculator]([https://www.google.com](https://barbieagrawal.github.io/OWASP-RISK-CALC/))
